@@ -11,7 +11,7 @@ what you are tasked with for this task.
 
 ## The Task:
 
-- [ ] Fork this repo and clone a local copy to work in.
+- [X] Fork this repo and clone a local copy to work in.
 
 - [ ] Read the provided `NumberTriange.java` file to understand the definition of a number triangle and what
       methods and variables we have defined to represent the structure.
